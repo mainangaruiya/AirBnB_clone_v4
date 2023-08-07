@@ -3,8 +3,7 @@
 ![image](https://github.com/mainangaruiya/AirBnB_clone_v4/assets/100405059/571527aa-d3d6-497b-ba6e-67d75cef269c)
 ![image](https://github.com/mainangaruiya/AirBnB_clone_v4/assets/100405059/5e1926bc-b497-4d1e-8076-5bc41e7cad08)
 ![image](https://github.com/mainangaruiya/AirBnB_clone_v4/assets/100405059/c65e9456-bf11-42c3-9803-f21b1578fec4)
-![image](https://github.com/mainangaruiya/AirBnB_clone_v4/assets/100405059/467f8773-13cf-478c-b7eb-b530352fc0aa)
-
+![image](https://github.com/mainangaruiya/AirBnB_clone_v4/assets/100405059/bb0c8616-c28f-478e-9b60-cf95773120f9)
 
 * How cool it is to request your own API
 * How to modify an HTML element style
